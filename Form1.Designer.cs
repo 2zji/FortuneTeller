@@ -195,7 +195,10 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "3109윤예지";
+<<<<<<< HEAD
             this.Load += new System.EventHandler(this.Form1_Load);
+=======
+>>>>>>> 3cf6f7a (Fix gitignore and remove unnecessary VS/obj files)
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
