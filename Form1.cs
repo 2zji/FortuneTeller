@@ -123,5 +123,10 @@ namespace FortuneTeller
             tbResult.Text = birthday + " " + birthtime + Environment.NewLine
                 + saju + Environment.NewLine;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
