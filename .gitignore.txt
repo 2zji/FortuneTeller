@@ -1,0 +1,13 @@
+# Visual Studio cache and temporary files
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
